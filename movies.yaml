@@ -3,7 +3,3 @@ movie:
   file-pattern: "*.txt"
   prevent-duplicates: true
   fixed-delay: 5000
-
-eureka:
-  client:
-    serviceUrl.defaultZone: http://localhost:8761/eureka
