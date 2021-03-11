@@ -3,8 +3,3 @@ movie:
   file-pattern: "*.txt"
   prevent-duplicates: true
   fixed-delay: 5000
-logging:
-  leve:
-    com:
-      github:
-        fabriciolfj: info
